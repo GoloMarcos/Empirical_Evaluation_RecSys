@@ -17,3 +17,4 @@
 - Filtragem Híbrida monolitica (ItemkNN + FBC-KNN - Gênero)
 
 ## Resultado dos métodos
+![Results](/imagem/results.png)
