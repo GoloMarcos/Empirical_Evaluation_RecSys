@@ -11,9 +11,9 @@
 - SVD-AL
 - SVD-GD
 - FBCkNN baseado em:
--- Gênero dos filmes
--- Reviews representadas pela bag-of-words
--- Reviews representadas pelo BERT
+  - Gênero dos filmes
+  - Reviews representadas pela bag-of-words
+  - Reviews representadas pelo BERT
 - Filtragem Híbrida monolitica (ItemkNN + FBC-KNN - Gênero)
 
 ## Resultado dos métodos
